@@ -1,0 +1,40 @@
+main {
+  text-align: center;
+}
+
+main hr {
+  margin-bottom: 40px;
+  width: 80%;
+}
+
+.fazione {
+  margin-bottom: 30px;
+  margin: 0;
+  text-align: center;
+}
+
+.fazione h1 {
+  margin-bottom: 0;
+}
+
+main h3 {
+  margin: 0;
+  margin-top: -10px;
+  font-style: italic;
+}
+
+.title {
+  font-size: 50px;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.puca h1 {
+  margin: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .title {
+    font-size: 40px;
+  }
+}

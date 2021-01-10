@@ -1,0 +1,35 @@
+main {
+  text-align: center;
+}
+
+.title {
+  font-size: 50px;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+main h1 {
+  margin: 50px 0 0 0;
+}
+
+main h2 {
+  margin-top: 40px;
+}
+
+main p {
+  font-size: 1em;
+}
+
+.zero {
+  font-size: 12px;
+}
+
+.uno {
+  font-size: 12px;
+}
+
+@media screen and (max-width: 800px) {
+  .title {
+    font-size: 40px;
+  }
+}
